@@ -80,7 +80,7 @@ class Main {
             System.out.println("Nie znaleziono...");
         else {
             System.out.println("Znaleziono: ");
-            System.out.println(wanted.ToString());
+            System.out.println(wanted.ToString()); 
         }
     }
 }
